@@ -40,7 +40,7 @@ class Matcher extends JFrame implements ActionListener{
     int winLosePattern = 0;
 
     //interfacePanel
-    JButton writeMyPtButton = new JButton("MyPTを保存aa");
+    JButton writeMyPtButton = new JButton("MyPTを保存");
     JButton getIconButton = new JButton("取得");
     JButton winLoseButton = new JButton();
     JButton resultWriteButton = new JButton("結果保存");
