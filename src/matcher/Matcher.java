@@ -40,7 +40,7 @@ class Matcher extends JFrame implements ActionListener{
     int winLosePattern = 0;
 
     //interfacePanel
-    JButton writeMyPtButton = new JButton("MyPTを保存");
+    JButton writeMyPtButton = new JButton("MyPTを保存aa");
     JButton getIconButton = new JButton("取得");
     JButton winLoseButton = new JButton();
     JButton resultWriteButton = new JButton("結果保存");
@@ -74,7 +74,8 @@ class Matcher extends JFrame implements ActionListener{
         //メモ縦配置(x, x, 500, 810)
         //左配置(10, 10, x, x)
         //右配置(2100, 10, x, x)
-        setBounds(2000, 10, 500, 810);    //フレームの初期位置,大きさ
+        // setBounds(2000, 10, 500, 810);    //フレームの初期位置,大きさ
+        setBounds(0, 0, 500, 810);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //xを押したときにプログラムを終了する
 
         //レイアウト
