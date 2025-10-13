@@ -29,6 +29,24 @@ for id in range(1, 1026, 1):
 
 
 urls = [
+    # アルセウス
+    ["493b.png", "https://www.serebii.net/pokedex-sv/icon/493-fire.png"],
+    ["493c.png", "https://www.serebii.net/pokedex-sv/icon/493-water.png"],
+    ["493d.png", "https://www.serebii.net/pokedex-sv/icon/493-electric.png"],
+    ["493e.png", "https://www.serebii.net/pokedex-sv/icon/493-grass.png"],
+    ["493f.png", "https://www.serebii.net/pokedex-sv/icon/493-ice.png"],
+    ["493g.png", "https://www.serebii.net/pokedex-sv/icon/493-fighting.png"],
+    ["493h.png", "https://www.serebii.net/pokedex-sv/icon/493-poison.png"],
+    ["493i.png", "https://www.serebii.net/pokedex-sv/icon/493-ground.png"],
+    ["493j.png", "https://www.serebii.net/pokedex-sv/icon/493-flying.png"],
+    ["493k.png", "https://www.serebii.net/pokedex-sv/icon/493-psychic.png"],
+    ["493l.png", "https://www.serebii.net/pokedex-sv/icon/493-bug.png"],
+    ["493m.png", "https://www.serebii.net/pokedex-sv/icon/493-rock.png"],
+    ["493n.png", "https://www.serebii.net/pokedex-sv/icon/493-ghost.png"],
+    ["493o.png", "https://www.serebii.net/pokedex-sv/icon/493-dragon.png"],
+    ["493p.png", "https://www.serebii.net/pokedex-sv/icon/493-dark.png"],
+    ["493q.png", "https://www.serebii.net/pokedex-sv/icon/493-steel.png"],
+    ["493r.png", "https://www.serebii.net/pokedex-sv/icon/493-fairy.png"],
     # アローラフォーム
     ["19b.png", "https://www.serebii.net/pokedex-sv/icon/019-a.png"],
     ["20b.png", "https://www.serebii.net/pokedex-sv/icon/020-a.png"],
